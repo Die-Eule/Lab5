@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    min-height: 93px;
+    min-width: 440px;
+    top: 0;
+    left: 0;
+    background-color: #F5DB13;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 93px;
+    margin-left: 10vw;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 570px;
+    margin-right: 10vw;
+}
